@@ -21,13 +21,13 @@ body{
 
 figure {
   border: 0 #cccccc solid;
-  padding: 4px;
+  padding: 0 4px 0 4px;
   margin: auto;
   display: block;
 }
 
 figcaption {
-  padding: 2px;
+  padding: 0 4px 0 4px;
   text-align: justify;
 }
 
@@ -58,7 +58,7 @@ color: #A6192E;
 .wrapper {
  display: flex;
  flex-flow: row wrap;
- padding: 20px;
+ padding: 0 20px 0 20px;
  flex: 1 100%;
 }
 
