@@ -6,28 +6,29 @@
 }
 
 h1 {
- font-size: 32px;
+ font-size: 50px;
 }
 
 h2 {
- font-size: 24px;
+ font-size: 30px;
  vertical-align: top;
 }
 
 body{
  font-family: 'Roboto', sans-serif;
  font-weight: 300;
+ font-size: 18px;
 }
 
 figure {
   border: 0 #cccccc solid;
-  padding: 0 4px 0 4px;
+  padding: 0;
   margin: auto;
-  display: block;
+  display: inline-block;
 }
 
 figcaption {
-  padding: 0 4px 0 4px;
+  padding: 0;
   text-align: justify;
 }
 
@@ -68,6 +69,7 @@ color: #A6192E;
 
 .aside-1 {
  text-align: left;
+ vertical-align: top;
 }
 
 .aside-2 {
