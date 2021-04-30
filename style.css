@@ -6,7 +6,7 @@
 }
 
 h1 {
- font-size: 50px;
+ font-size: 100px;
 }
 
 h2 {
@@ -27,9 +27,16 @@ figure {
   display: inline-block;
 }
 
+.headshot {
+  max-width: 300px;
+  max-height: 350px;
+  overflow: hidden;
+}
+
 figcaption {
   padding: 0;
   text-align: justify;
+  vertical-align: bottom;
 }
 
 th{
@@ -38,7 +45,7 @@ th{
 }
 
 td{
-  vertical-align: bottom;
+  vertical-align: top;
 }
 
 ul{
