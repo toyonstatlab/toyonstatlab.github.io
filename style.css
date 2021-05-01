@@ -53,10 +53,12 @@ ul{
 }
 
 a:link {
-color: #A6192E;
+  color: #A6192E;
+  font-weight: 700;
+  text-decoration: none;
 }
 a:visited {
-color: #A6192E;
+  color: #A6192E;
 }
 
 .image_section img{
@@ -66,12 +68,14 @@ color: #A6192E;
 .wrapper {
  display: flex;
  flex-flow: row wrap;
- padding: 0 20px 0 20px;
+ padding: 0 20px 20px 20px;
  flex: 1 100%;
+ max-width: 1200px
 }
 
 .main {
  text-align: left;
+ width: 100%;
 }
 
 .aside-1 {
