@@ -81,6 +81,11 @@ a:link {
   font-weight: 700;
   text-decoration: none;
 }
+a:hover {
+  color: #A6192E;
+  font-weight: 700;
+  text-decoration: underline;
+}
 a:visited {
   color: #A6192E;
 }
