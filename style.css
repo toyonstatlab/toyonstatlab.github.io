@@ -95,11 +95,11 @@ a:visited {
 }
 
 .wrapper {
- display: flex;
- flex-flow: row wrap;
- padding: 0 20px 20px 20px;
- flex: 1 100%;
- max-width: 1400px
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0 20px 20px 20px;
+  flex: 1 100%;
+  max-width: 1400px
 }
 
 .main {
