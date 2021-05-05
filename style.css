@@ -27,9 +27,6 @@ figure {
   display: inline-block;
 }
 
-figure.headshot{
-}
-
 img.headshot { 
   vertical-align: top;
   width: 100%;
@@ -38,7 +35,7 @@ img.headshot {
 
 figcaption {
   padding: 0;
-  text-align: center;
+  text-align: left;
   vertical-align: bottom;
 }
 
