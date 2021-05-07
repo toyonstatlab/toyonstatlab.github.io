@@ -52,21 +52,21 @@ td.headshot_l{
   width: 33%;
   margin-left: auto;
   margin-right: auto;  
-  padding: 0 3% 7% 0;
+  padding: 0 4% 7% 0;
 }
 
 td.headshot_c{
   width: 33%;
   margin-left: auto;
   margin-right: auto;  
-  padding: 0 3% 7% 3%;
+  padding: 0 2% 7% 2%;
 }
 
 td.headshot_r{
   width: 33%;
   margin-left: auto;
   margin-right: auto;  
-  padding: 0 0 7% 3%;
+  padding: 0 0 7% 4%;
 }
 
 ul{
